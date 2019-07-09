@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-class App extends React.Component() {
-  Constructor(props){
+class App extends React.Component{
+  constructor(props){
      super(props);
      this.state={
 
@@ -13,8 +13,7 @@ class App extends React.Component() {
 render(){
   return (
     <div>
-    
-    
+      ...... Hi / Ready to Rock
     </div>
   );
 }
